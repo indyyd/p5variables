@@ -12,6 +12,7 @@ var ellipseX = 400;
 var ellipseY = 400;
 
 //variables cannot be put into 'function' 
+//more info on what we did can be found on Chris' Notion page
 
 function setup() {
     var canvas = createCanvas(600, 600);
